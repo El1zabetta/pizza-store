@@ -119,7 +119,7 @@
 
 .card {
   display: flex;
-  max-width: 280px;
+  width: 280px;
   flex-direction: column;
   align-items: center;
 }
@@ -186,4 +186,54 @@
 .btn-active {
   background-color: white;
   box-shadow: 0 2px 4px #0000006c;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.card-parent {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 20px;
+  row-gap: 60px;
+}
+
+.form form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  margin-top: 100px;
+  text-align: center;
+}
+
+.form h1 {
+  margin-bottom: 20px;
+}
+
+.form form input {
+  width: 300px;
+  border-radius: 20px;
+  border: none;
+  background-color: lightgrey;
+  color: black;
+  padding: 10px;
+}
+
+.form button {
+  padding: 15px 35px;
+  margin-top: 10px;
+  border-radius: 20px;
+  cursor: pointer;
+  background-color: #fe5e1e;
+  color: white;
+  border: none;
+  box-shadow: 0 2px 5px #0000006c;
+}
+
+.form button:active {
+  box-shadow: none;
 }
