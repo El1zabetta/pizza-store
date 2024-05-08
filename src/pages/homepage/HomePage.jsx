@@ -17,17 +17,6 @@ export default function HomePage({ pizzas, getPizzas }) {
 
   return (
     <div className="container">
-      <Box className="banner-parent">
-        <Box className="banner-inner bn-1">
-          <img src={banner1} />
-          <img src={banner2} />
-        </Box>
-        <Box className="banner-inner bn-2">
-          <img src={banner3} />
-          <img src={banner4} />
-          <img src={banner5} />
-        </Box>
-      </Box>
       <Box className="hp-btns">
         <button
           onClick={() => setSelectcategory("все")}
@@ -83,6 +72,17 @@ export default function HomePage({ pizzas, getPizzas }) {
           {pizzas.map((pizza) => (
             <Card key={pizza.id} product={pizza} />
           ))}
+        </Box>
+      </Box>
+      <Box className="banner-parent">
+        <Box className="banner-inner bn-1">
+          <img src={banner1} />
+          <img src={banner2} />
+        </Box>
+        <Box className="banner-inner bn-2">
+          <img src={banner3} />
+          <img src={banner4} />
+          <img src={banner5} />
         </Box>
       </Box>
     </div>

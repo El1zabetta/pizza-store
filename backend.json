@@ -1,39 +1,32 @@
 {
   "pizzas": [
     {
-      "id": "d411",
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB-K6Nbjn95uE6zsyphftwa2BMczct519BEEqffXAS2g&s",
-      "title": "Heart",
-      "info": "love",
-      "price": "Infinity"
+      "url": "https://media.dodostatic.net/image/r:292x292/11EE7D600BC7B9F1B6888AF021E5C198.avif",
+      "title": "Сырная",
+      "info": "Моцарелла, смесь сыров чеддер и пармезан, соус альфредо",
+      "price": 295,
+      "id": "f-JIqmw"
     },
     {
-      "id": "b78e",
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB-K6Nbjn95uE6zsyphftwa2BMczct519BEEqffXAS2g&s",
-      "title": "Heart",
-      "info": "love",
-      "price": "Infinity"
+      "url": "https://media.dodostatic.net/image/r:292x292/11EEF62E524C7681899886131CF3354C.avif",
+      "title": "Баварская",
+      "info": "Охотничьи колбаски, маринованные огурчики, красный лук, томаты, горчичный соус, моцарелла, томатный соус",
+      "price": 495,
+      "id": "1uVN44Y"
     },
     {
-      "id": "c754",
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB-K6Nbjn95uE6zsyphftwa2BMczct519BEEqffXAS2g&s",
-      "title": "Heart",
-      "info": "love",
-      "price": "Infinity"
+      "url": "https://media.dodostatic.net/image/r:292x292/11EE7D6013454CD6BE264FC142D1BD35.avif",
+      "title": "Аррива!",
+      "info": "Цыпленок , колбаски чоризо из цыпленка , моцарелла, сладкий перец , красный лук , томаты , чеснок сухой , соус ранч, бургер соус",
+      "price": 465,
+      "id": "BKpHqQL"
     },
     {
-      "id": "c318",
-      "url": "https://media.istockphoto.com/id/938742222/photo/cheesy-pepperoni-pizza.jpg?s=612x612&w=0&k=20&c=D1z4xPCs-qQIZyUqRcHrnsJSJy_YbUD9udOrXpilNpI=",
-      "title": "ммммм",
-      "info": "купи",
-      "price": "700"
-    },
-    {
-      "id": "d063",
-      "url": "https://media.istockphoto.com/id/938742222/photo/cheesy-pepperoni-pizza.jpg?s=612x612&w=0&k=20&c=D1z4xPCs-qQIZyUqRcHrnsJSJy_YbUD9udOrXpilNpI=",
-      "title": "ммммм",
-      "info": "купи",
-      "price": "700"
+      "url": "https://media.dodostatic.net/image/r:292x292/11EE7D601CA4814686454D91F7F0C7BE.avif",
+      "title": "React Mix",
+      "info": "Цыпленок , ветчина из цыпленка , моцарелла, смесь сыров чеддер и пармезан , сыр блю чиз , кубики брынзы , красный лук , томаты , чеснок сухой , итальянские травы , соус песто, соус альфредо",
+      "price": 735,
+      "id": "6BTiNvJ"
     }
   ]
 }
